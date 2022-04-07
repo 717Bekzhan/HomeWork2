@@ -1,0 +1,20 @@
+[
+  {
+    "ID": 1,
+    "name": "Volvo",
+    "driver1": " ",
+    "state": "ON_THE_BASE"
+  },
+  {
+    "ID": 2,
+    "name": "Daf",
+    "driver1": "",
+    "state": "ON_THE_BASE"
+  },
+  {
+    "ID": 3,
+    "name": "Renault",
+    "driver1": "",
+    "state": "ON_THE_BASE"
+  }
+]
