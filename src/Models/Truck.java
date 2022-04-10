@@ -1,4 +1,6 @@
-package com.company;
+package Models;
+
+import enums.State;
 
 public class Truck {
     private int ID;
